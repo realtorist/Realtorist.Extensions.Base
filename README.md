@@ -1,0 +1,1 @@
+Project that contains base for all extensions for the Realtorist project
