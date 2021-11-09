@@ -8,12 +8,12 @@
     <Title>Realtorist.Extensions.Base</Title>
     <Description>Project that contains base for all extensions for the Realtorist project</Description>
     <RepositoryUrl>https://github.com/realtorist/Realtorist.Extensions.Base</RepositoryUrl>
-    <ReleaseNotes>Added extensions manager</ReleaseNotes>
+    <ReleaseNotes>Added service collection helpers</ReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
     <FrameworkReference Include="Microsoft.AspNetCore.App" />
 
-    <PackageReference Include="Realtorist.Models" Version="0.0.2" />
+    <PackageReference Include="Realtorist.Models" Version="0.0.3" />
   </ItemGroup>
 </Project>
