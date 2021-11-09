@@ -3,12 +3,12 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <PackageId>Realtorist.Extensions.Base</PackageId>
-    <Version>0.0.1</Version>
+    <Version>0.0.2</Version>
     <Authors>Dmytro Bondarchuk</Authors>
     <Title>Realtorist.Extensions.Base</Title>
     <Description>Project that contains base for all extensions for the Realtorist project</Description>
     <RepositoryUrl>https://github.com/realtorist/Realtorist.Extensions.Base</RepositoryUrl>
-    <ReleaseNotes>Initial publish</ReleaseNotes>
+    <ReleaseNotes>Added extensions manager</ReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
